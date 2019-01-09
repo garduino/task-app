@@ -10,11 +10,16 @@ app/storage/
 public/storage
 public/hot
 storage/*.key
+/vendor
 .env.*.php
 .env.php
 .env
+.phpunit.result.cache
 Homestead.yaml
 Homestead.json
+yarn-error.log
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+
